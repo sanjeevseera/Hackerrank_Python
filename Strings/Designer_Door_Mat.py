@@ -13,7 +13,6 @@ The design pattern should only use |, . and - characters.
     ---.|..|..|..|..|.---
     ------.|..|..|.------
     ---------.|.---------
-
 """
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT

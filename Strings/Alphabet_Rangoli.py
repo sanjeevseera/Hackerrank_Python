@@ -11,7 +11,6 @@ c-b-a-b-c
 --c-b-c--
 ----c----
 """
-
 def print_rangoli(size):
     # your code goes here
     #print(chr(97))
